@@ -8,6 +8,7 @@ local servers = {
   ["efm"] = require'lspinstall/servers/efm',
   ["go"] = require'lspinstall/servers/go',
   ["graphql"] = require'lspinstall/servers/graphql',
+  ["emmet"] = require'lspinstall/servers/emmet',
   ["html"] = require'lspinstall/servers/html',
   ["json"] = require'lspinstall/servers/json',
   ["latex"] = require'lspinstall/servers/latex',
